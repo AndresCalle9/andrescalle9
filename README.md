@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/andrescalle9" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="sebastiancalleu" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/andrescalleuribe" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c528.png" alt="sebastiancalleu" height="30" width="100" /></a>
+<a href="https://linkedin.com/in/andrés-calle-uribe-109321123" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c528.png" alt="sebastiancalleu" height="30" width="100" /></a>
 <a href="https://instagram.com/andrescalle9" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="sebastiancalleuribe" height="40" width="40" /></a>
 </p>
 
